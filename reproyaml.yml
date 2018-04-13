@@ -1,0 +1,16 @@
+resources:
+
+- repo: self
+
+queue:
+
+  name: Hosted
+
+steps:
+
+- task: ArchiveFiles@2
+
+
+
+
+
